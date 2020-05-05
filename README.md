@@ -12,12 +12,6 @@ This file provides links to different file in this project
 
 [Criteria B](https://github.com/LingyeWU/unit3/blob/master/CriteriaB.md)
 
-[Journal](https://github.com/LingyeWU/unit3/blob/master/journal.md)
+[Criteria C](https://github.com/LingyeWOO/CSU3-backup/blob/master/Criteria%20C.md)
 
-[Appendix](https://github.com/LingyeWU/unit3/blob/master/Appendix.md)
-
-[Python warm-ups](https://github.com/LingyeWU/unit3/tree/master/python)
-
-[Snakify Practices](https://github.com/LingyeWU/unit3/tree/master/snakify_practice)
-
-[Graph Practicies](https://github.com/LingyeWU/unit3/tree/master/graph)
+[Criteria D](https://github.com/LingyeWOO/CSU3-backup/blob/master/Criteria%20D.md)
